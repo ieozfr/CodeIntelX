@@ -1,6 +1,13 @@
 <p align="center">
   <img src="assets/codeintelx.png" alt="CodeIntelX Banner" />
 </p>
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
+  </a>
+  <img src="https://img.shields.io/badge/Python-3.8%2B-blue.svg" alt="Python 3.8+">
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen.svg" alt="Project Status">
+</p>
 
 # CodeIntelX
 
