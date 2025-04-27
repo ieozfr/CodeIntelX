@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/codeintelx.png.png" alt="CodeIntelX Banner" />
+  <img src="assets/codeintelx.png" alt="CodeIntelX Banner" />
 </p>
 
 # CodeIntelX
