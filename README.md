@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="CodeIntelX Banner" />
+  <img src="assets/banner.png" height="285px" alt="CodeIntelX Banner" />
 </p>
 
 # CodeIntelX
@@ -74,3 +74,11 @@ Reports will be generated under the reports/ folder.
 ## 📸 Screenshots / Ekran Görüntüleri
 
 <p align="center"> <img src="assets/screenshot1.png" alt="CodeIntelX Screenshot 1" width="700px" /> </p> <p align="center"> <img src="assets/screenshot2.png" alt="CodeIntelX Screenshot 2" width="700px" /> </p>
+
+## 🤝 Contribution / Katkıda Bulunma
+Feel free to contribute by pull requests, bug reports or feature suggestions!
+Projeye katkıda bulunabilirsiniz! 🎯
+
+## 📜 License
+This project is licensed under the MIT License.
+
