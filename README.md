@@ -9,6 +9,16 @@
   <img src="https://img.shields.io/badge/Status-Active-brightgreen.svg" alt="Project Status">
 </p>
 
+## 📥 Download Latest Release
+
+You can download the latest compiled Windows executable from the [Releases](https://github.com/ieozfr/CodeIntelX/releases) page.
+
+➡️ [Download CodeIntelX.exe](https://github.com/ieozfr/CodeIntelX/releases/latest)
+
+---
+
+
+
 # CodeIntelX
 
 🚀 CodeIntelX is an open-source professional tool to perform static analysis on executable files.
@@ -56,7 +66,7 @@ Sonuçları JSON ve şık HTML rapor formatında sunar.
 ## ⚙️ Installation / Kurulum
 
 ```bash
-git clone https://github.com/yourusername/CodeIntelX.git
+git clone https://github.com/ieozfr/CodeIntelX.git
 cd CodeIntelX
 pip install -r requirements.txt
 ```
