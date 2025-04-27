@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="CodeIntelX Banner" />
+</p>
+
 # CodeIntelX
 
 🚀 CodeIntelX is an open-source professional tool to perform static analysis on executable files.
@@ -48,3 +52,25 @@ Sonuçları JSON ve şık HTML rapor formatında sunar.
 git clone https://github.com/yourusername/CodeIntelX.git
 cd CodeIntelX
 pip install -r requirements.txt
+```
+## 🔑 VirusTotal API Key Setup
+Edit src/config/settings.json like this:
+```bash
+{
+  "VIRUSTOTAL_API_KEY": "your_virustotal_api_key_here"
+}
+```
+## 🛠️ Usage / Kullanım
+Analyze a single file:
+```bash
+python -m src.main -f "path/to/your/file.exe"
+``` 
+Or analyze a directory:
+```bash
+python -m src.main -d "path/to/your/directory"
+```
+Reports will be generated under the reports/ folder.
+
+## 📸 Screenshots / Ekran Görüntüleri
+
+<p align="center"> <img src="assets/screenshot1.png" alt="CodeIntelX Screenshot 1" width="700px" /> </p> <p align="center"> <img src="assets/screenshot2.png" alt="CodeIntelX Screenshot 2" width="700px" /> </p>
